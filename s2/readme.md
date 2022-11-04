@@ -1,4 +1,4 @@
-semana 2
+* semana 2
 
 Los datos que vamos a utilizar para esta semana: https://data.world/makeovermonday/2022w44
 
