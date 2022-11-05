@@ -1,9 +1,7 @@
 # semana 2
 
 #### Los datos que vamos a utilizar para esta semana: https://data.world/makeovermonday/2022w44
-
-#### Fundraising by Members of the 117th Congress
-
+#### Fundraising by Members of the 117th Congress
 
 ## Herramientas que vamos a utilizar:
 
