@@ -7,5 +7,6 @@
 
 * [Tableau](https://gersantos1.github.io/infovis/s2/tableau.html)
 * [Flourish](gersantos1.github.io/infovis/s2/flourish.html)
+* [Flourish2](https://gersantos1.github.io/infovis/s2/flourishradial.html)
 * ObservableHQ (Plot.js y D3.js)
 * Colab (python & altair y R & ggplot2)
