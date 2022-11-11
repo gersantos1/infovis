@@ -8,5 +8,3 @@
 * [Tableau]()
 * [Flourish]()
 * [Flourish 2]()
-* ObservableHQ (Plot.js y D3.js)
-* Colab (python & altair y R & ggplot2)
