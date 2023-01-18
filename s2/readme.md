@@ -6,7 +6,6 @@
 ## Herramientas que vamos a utilizar:
 
 * [Tableau](https://gersantos1.github.io/infovis/s2/tableau.html)
-* [Flourish](gersantos1.github.io/infovis/s2/flourish.html)
-* [Flourish 2](https://gersantos1.github.io/infovis/s2/flourishradial.html)
+* [Flourish](https://gersantos1.github.io/infovis/s2/flourishradial.html)
 * ObservableHQ (Plot.js y D3.js)
 * Colab (python & altair y R & ggplot2)
